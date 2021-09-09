@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DB051B39-347A-486D-BADC-F02ACCC0977B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingEventsAPI/appsettings.json">
+    <Files>
+      <File FileName="CodingEventsAPI/Startup.cs" Line="23" Column="87" />
+      <File FileName="CodingEventsAPI/Controllers/CodingEventsController.cs" Line="57" Column="50" />
+      <File FileName="CodingEventsAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="CodingEventsAPI/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="coding-events-api" expanded="True">
+            <Node name="CodingEventsAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CodingEventsAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
