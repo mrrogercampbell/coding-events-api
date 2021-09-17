@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingEventsAPI", "CodingEventsAPI.csproj", "{1812F9EA-7754-4E3A-B06E-7F64059B634A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1812F9EA-7754-4E3A-B06E-7F64059B634A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1812F9EA-7754-4E3A-B06E-7F64059B634A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1812F9EA-7754-4E3A-B06E-7F64059B634A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1812F9EA-7754-4E3A-B06E-7F64059B634A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5813227B-1541-4731-85CA-6F6AD12EECDA}
+	EndGlobalSection
+EndGlobal
